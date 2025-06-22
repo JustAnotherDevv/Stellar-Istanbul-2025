@@ -1,2 +1,1 @@
-# Stellar Defi Aggregator
-
+# Stellar Defi Hub
